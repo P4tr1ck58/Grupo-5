@@ -1,3 +1,5 @@
 "Problematicas"
 
 -S.I.S : problema con agenda de citas y visualizacion de datos
+-Pasteleria: manejo de pedidos e inventario de insumos
+-Matricula: matricula de alumnos de manera presencial
