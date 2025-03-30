@@ -1,0 +1,2 @@
+"soluciones" 
+Crear una plataforma en la cual puedan visualizar su historial medico, agendar citas 
